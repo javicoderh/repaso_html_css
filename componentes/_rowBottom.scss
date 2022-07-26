@@ -1,0 +1,34 @@
+.row--bottom {
+ position: relative;
+ display: flex;
+ justify-content: center;
+ align-content: center;
+ bottom: 40px;
+ background-color: rgb(19, 125, 164);
+ width: 70%;
+}
+
+.register { 
+ width: 100%;
+}
+
+input {
+ position: relative;
+ top: 20px;
+ width: 200px;
+ height: 30px;
+ margin-right: 40px;
+}
+
+button {
+ position: relative;
+ top: 20px;
+ height: 40px;
+ width: 60px;
+ margin-left: 40px;
+}
+
+select {
+ position: relative;
+ top: 20px;
+}
